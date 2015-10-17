@@ -2,7 +2,7 @@
 layout: post
 title: Intro to Javascript Regexes
 ---
-{{in progress}}
+IN PROGRESS
 
 Regular Expressions (Regex for short) are a powerful technique for searching text.  They allow you to concisely describe a pattern you want to match in a give string.  However, they can also be a little intimidating, as to the beginner they look like a incomprehensible series of symbols (for the ultimate confusing regex example, check out this one for validating email addresses http://www.ex-parrot.com/pdw/Mail-RFC822-Address.html).  In this post, we're going to build up the basics of constructing regexes with a few simple exercises that'll get you regexing in no time.  (Note: this article will be using the syntax of Javascript regexes; there are occasionally small differences between different languages' implementations.)
 
@@ -29,12 +29,6 @@ What about repeated characters? for this we can use a '*'.  This will match the 
 
 
 
-Answers:
-1.
-
-2.
-
-3
 
 Resources:
 This site is great for checking that your regexes do what you expect: https://regex101.com/
