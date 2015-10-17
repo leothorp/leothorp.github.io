@@ -13,7 +13,7 @@ For example /cat/ is only going to match the string 'cat'.
 To add a bit of flexibility, we can surround some characters in brackets.  This would 
 indicate a match with any one of the characters within the brackets.  Example: /[cb]at/ will match both 'cat' and 'bat'.
 
-What about repeated characters? for this we can use a *.  This will match the preceding element 0 or more times.  /c*at/ will match 'cat', 'cccat', and 'at'.   + has a similar function, except the element must occur at least once (so /c+at/ would not match 'at').  Let's try a few exercises.
+What about repeated characters? for this we can use a '*'.  This will match the preceding element 0 or more times.  /c*at/ will match 'cat', 'cccat', and 'at'.   + has a similar function, except the element must occur at least once (so /c+at/ would not match 'at').  Let's try a few exercises.
 
 1.  write a regex that will match either 'meat' or 'meet'. 
 
