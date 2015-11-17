@@ -1,4 +1,3 @@
-== vs ===
 
 Newcomers to Javascript are often confused by the presence of two comparison operators: '== and ==='.  At first glance, they appear to do
 the same thing: checking whether two values (or expressions) are equal.
